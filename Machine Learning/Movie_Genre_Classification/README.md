@@ -7,7 +7,7 @@ It demonstrates how text data can be leveraged for multi-class classification ta
 ***
 
 ## 📂 Dataset
-Dataset Link - Kaggle[https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb}
+Dataset Link - Kaggle[https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb]
 The dataset includes:
 - **Movie ID** — Unique identifier for each film
 - **Title** — Name of the movie
