@@ -1,7 +1,3 @@
-Got it ✅ — I’ve gone through your **Customer_Churn_Prediction.ipynb** file, analyzed the data, preprocessing, models, and evaluation steps, and prepared a clean, professional **README.md** that you can directly use for your GitHub repository.  
-
-Here’s the structured README:
-
 ***
 
 # 🏦 Customer Churn Prediction
